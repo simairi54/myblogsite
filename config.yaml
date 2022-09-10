@@ -1,6 +1,6 @@
 baseURL: https://blog.tekspace.cloud
 languageCode: en-us
-title: Personal website and blog
+title: tekspacecloud blog
 theme: hugo-refresh
 # theme: ../..
 
@@ -125,7 +125,7 @@ params:
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
-      link: https://www.linkedin.com/feed/
+      link: in/leo-simairi-92340155/
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer

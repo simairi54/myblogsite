@@ -1,0 +1,71 @@
+spanning-tree mode mst
+spanning-tree portfast edge default
+spanning-tree extend system-id
+spanning-tree pathcost method long
+ spanning-tree link-type point-to-point
+ spanning-tree link-type point-to-point
+ spanning-tree bpdufilter enable
+
+ chinesedumps-sw101#sh ip sla configuration 
+IP SLAs Infrastructure Engine-III
+Entry number: 1
+Owner: 
+Tag: 
+Operation timeout (milliseconds): 400
+Type of operation to perform: icmp-echo
+Target address/Source interface: 10.1.255.11/Vlan2000
+Type Of Service parameter: 0x0
+Request size (ARR data portion): 28
+Data pattern: 0xABCDABCD
+Verify data: No
+Vrf Name: 
+Schedule:
+   Operation frequency (seconds): 5  (not considered if randomly scheduled)
+   Next Scheduled Start Time: Start Time already passed
+   Group Scheduled : FALSE
+   Randomly Scheduled : FALSE
+   Life (seconds): Forever
+   Entry Ageout (seconds): never
+   Recurring (Starting Everyday): FALSE
+   Status of entry (SNMP RowStatus): Active
+Threshold (milliseconds): 400
+Distribution Statistics:
+   Number of statistic hours kept: 2
+   Number of statistic distribution buckets kept: 1
+   Statistic distribution interval (milliseconds): 20
+Enhanced History:
+History Statistics:
+   Number of history Lives kept: 0
+   Number of history Buckets kept: 15
+   History Filter Type: None
+          
+Entry number: 2
+Owner:    
+Tag:      
+Operation timeout (milliseconds): 400
+Type of operation to perform: icmp-echo
+Target address/Source interface: 10.1.255.12/Vlan2000
+Type Of Service parameter: 0x0
+Request size (ARR data portion): 28
+Data pattern: 0xABCDABCD
+Verify data: No
+Vrf Name: 
+Schedule: 
+   Operation frequency (seconds): 5  (not considered if randomly scheduled)
+   Next Scheduled Start Time: Start Time already passed
+   Group Scheduled : FALSE
+   Randomly Scheduled : FALSE
+   Life (seconds): Forever
+   Entry Ageout (seconds): never
+   Recurring (Starting Everyday): FALSE
+   Status of entry (SNMP RowStatus): Active
+Threshold (milliseconds): 400
+Distribution Statistics:
+   Number of statistic hours kept: 2
+   Number of statistic distribution buckets kept: 1
+   Statistic distribution interval (milliseconds): 20
+Enhanced History:
+History Statistics:
+   Number of history Lives kept: 0
+   Number of history Buckets kept: 15
+   History Filter Type: None
