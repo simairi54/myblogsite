@@ -121,7 +121,7 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: info@tekspace.cloud
+      link: tekspacecloud@gmail.com
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 
@@ -136,7 +136,7 @@ params:
     # **uncomment** the below lines to show in footer
     # github: 
     #   link: username
-    #   title: Github
+    #title: Github
     # option to specify your gitlab account in the footer; 
     # **uncomment** the below lines to show in footer
     # gitlab: 
