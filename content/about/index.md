@@ -12,5 +12,3 @@ desire needed to solve challenging problems. Being committed to remaining up to 
 with the most recent advances, having a strong working understanding of technologies,
 and having effective organizing abilities.
 inspiring, directing, and offering current consulting services to both customers and coworkers.
-I'm currently searching for a new and challenging cloud engineering role that will best
-utilise my experience and talents while also advancing my career.
