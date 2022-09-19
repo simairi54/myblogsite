@@ -121,7 +121,7 @@ params:
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
     email: 
-      link: tekspacecloud@gmail.com
+      link: info@tekspace.cloud
       title: My Email
     # option to specify your linkedin profile in the footer
     linkedin: 

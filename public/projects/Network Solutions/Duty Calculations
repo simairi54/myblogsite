@@ -1,0 +1,14 @@
+Duty Calculations 
+
+-value of goods
+-freight costs
+-insuarance
+-additional costs
+
+#multiply the total by duty rate
+
+vat 14.50
+
+CIF - Cost, Insuarance, Freight
+
+FOB - free on board (FOB freight collect specifies that the buyer must pay the freight transportation charges when the buyer receives the goods. However, the seller assumes the risk associated with transporting the goods because the seller still owns the goods during transit.)

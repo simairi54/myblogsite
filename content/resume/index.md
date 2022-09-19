@@ -13,7 +13,7 @@ showInMenu: true
 
 Leo Simairi Resume
 
-Here is my [Resume](https://drive.google.com/file/d/1qcACiuVgAcwl-9TdUuzyAglUOVlh0NaE/view?usp=sharing) dashboard.
+Here is my [Resume](https://drive.google.com/file/d/1qcACiuVgAcwl-9TdUuzyAglUOVlh0NaE/view?usp=sharing) 
 
 
 
