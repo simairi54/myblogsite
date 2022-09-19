@@ -130,7 +130,7 @@
         <div class="divider"></div>
         
         <section class="section content has-text-justified">
-          <p><strong>Installation Steps:</strong></p>
+          <h1 id="installation-steps"><strong>Installation Steps:</strong></h1>
 <p><em><strong>1. Linux Ubuntu</strong></em></p>
 <p>The official Ubuntu APT repository can be used to directly install the Hugo program.
 Update the list of all-apt packages first by opening the terminal window.
@@ -151,6 +151,34 @@ Execute the following command to install Hugo using the apt repository in Ubuntu
 <p>Add hugo.exe to <em>C:\Program Files\System32</em> (this will allow you to have access of hugo anywhere in your commandline)</p>
 </li>
 </ol>
+<h1 id="now-lets-install-our-first-hugo-site">Now lets install our first hugo site.</h1>
+<p>NB: <a href="https://themes.gohugo.io/themes/">Hugo Themes</a> we are going to choose hugo-refresh the one i am currently using:</p>
+<h1 id="create-site-and-cd-into-it">Create site and cd into it</h1>
+<p>hugo new site my-site &amp;&amp; cd my-site</p>
+<h1 id="clone-the-refresh-theme-into-the-themes-folder">Clone the ReFresh theme into the themes folder</h1>
+<p>git init
+git submodule add <a href="https://github.com/PippoRJ/hugo-refresh.git">https://github.com/PippoRJ/hugo-refresh.git</a> themes/hugo-refresh</p>
+<h1 id="remove-the-default-config">Remove the default config</h1>
+<p>rm config.toml</p>
+<h1 id="fetch-the-example-config">Fetch the example config</h1>
+<p>curl -O <a href="https://raw.githubusercontent.com/PippoRJ/hugo-refresh/master/exampleSite/config.yaml">https://raw.githubusercontent.com/PippoRJ/hugo-refresh/master/exampleSite/config.yaml</a></p>
+<h1 id="run-the-site-locally">Run the site locally</h1>
+<p>hugo server -D</p>
+<h1 id="open-the-site-in-your-browser">Open the site in your browser</h1>
+<p>open http://localhost:1313</p>
+<p>To run the Example Site using Hugo ReFresh:</p>
+<h1 id="create-site-and-cd-into-it-1">Create site and cd into it</h1>
+<p>hugo new site my-site &amp;&amp; cd my-site</p>
+<h1 id="clone-the-refresh-theme-into-the-themes-folder-1">Clone the ReFresh theme into the themes folder</h1>
+<p>git init
+git submodule add <a href="https://github.com/PippoRJ/hugo-refresh">https://github.com/PippoRJ/hugo-refresh</a> themes/hugo-refresh</p>
+<h1 id="remove-the-default-config-1">Remove the default config</h1>
+<p>rm config.toml</p>
+<h1 id="copy-the-example-site-content-and-configuration-in-my-site">Copy the Example site content and configuration in my-site</h1>
+<p>cp -R themes/hugo-refresh/exampleSite/* ./</p>
+<h1 id="open-the-site-in-your-browser-1">Open the site in your browser</h1>
+<p>hugo server -D</p>
+<p><img src="/images/hug.png" alt="image alt text"></p>
 
         </section>
       </div>

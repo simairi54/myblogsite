@@ -8,7 +8,7 @@ and Windows"
 tags: ["custom_summary", "code"]
 ---
 
-**Installation Steps:**
+# **Installation Steps:**
 
 
 ***1. Linux Ubuntu***
@@ -34,3 +34,49 @@ Execute the following command to install Hugo using the apt repository in Ubuntu
 2. Extract all contects to your *C:\Hugo\bin folder* (the file path can be different depending with your device volume space)
 
 3. Add hugo.exe to *C:\Program Files\System32* (this will allow you to have access of hugo anywhere in your commandline)
+
+# Now lets install our first hugo site.
+
+NB: [Hugo Themes](https://themes.gohugo.io/themes/) we are going to choose hugo-refresh the one i am currently using:
+
+
+# Create site and cd into it
+hugo new site my-site && cd my-site
+
+# Clone the ReFresh theme into the themes folder
+git init
+git submodule add https://github.com/PippoRJ/hugo-refresh.git themes/hugo-refresh
+
+# Remove the default config
+rm config.toml
+
+# Fetch the example config
+curl -O https://raw.githubusercontent.com/PippoRJ/hugo-refresh/master/exampleSite/config.yaml
+
+# Run the site locally
+hugo server -D
+
+# Open the site in your browser
+open http://localhost:1313
+
+To run the Example Site using Hugo ReFresh:
+
+# Create site and cd into it
+hugo new site my-site && cd my-site
+
+# Clone the ReFresh theme into the themes folder
+git init
+git submodule add https://github.com/PippoRJ/hugo-refresh themes/hugo-refresh
+
+# Remove the default config
+rm config.toml
+
+# Copy the Example site content and configuration in my-site
+cp -R themes/hugo-refresh/exampleSite/* ./
+
+# Open the site in your browser
+
+hugo server -D
+
+
+![image alt text](/images/hug.png)
