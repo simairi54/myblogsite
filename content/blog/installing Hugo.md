@@ -17,7 +17,7 @@ The official Ubuntu APT repository can be used to directly install the Hugo prog
 Update the list of all-apt packages first by opening the terminal window.
 Execute the following command to install Hugo using the apt repository in Ubuntu: 
 
- apt-get package
+ ***apt-get package***
 
  sudo apt update 
 

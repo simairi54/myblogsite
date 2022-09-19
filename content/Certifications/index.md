@@ -11,7 +11,7 @@ showInMenu: true
 
 
 
-*Hi! I want to follow my certification path on this page. 
+*Hello! I want to follow my certification path on this page. 
 The page will be divided into the following three categories: WIP, DONE, and FUTURE.* 
 
 *WIP = Work in progress*
