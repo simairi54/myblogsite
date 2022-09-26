@@ -9,35 +9,25 @@ showInMenu: true
 ---
 
 
+Tracking my credentials and creating goals are both covered in this section. 
 
-
-*Hello! I want to follow my certification path on this page. 
-The page will be divided into the following three categories: WIP, DONE, and FUTURE.* 
-
-*WIP = Work in progress*
-
-*DONE = Certifications completed*
-
-*FUTURE = Which one will be the next?*
-
-
-*ETA: 12/31/2022 (let’s try)*
- 
+ **Current Certificaions**
              
-***AWS Certified DevOps Professional***
+*AWS Certified DevOps Professional*
 
-***Cisco CCIE EI***
-
-**DONE**
+*Cisco CCIE EI*
 
 
-
-Cisco Implementing Cisco Enterprise Advanced Routing and Services (ENARSI) 
-
-VMware Certified Professional - Data Center Virtualization 2021 (VCP-DCV 2021).
+**Certifications Completed**
 
 
-**FUTURE**
+
+*Cisco Implementing Cisco Enterprise Advanced Routing and Services (ENARSI)* 
+
+*VMware Certified Professional - Data Center Virtualization 2021 (VCP-DCV 2021)*
+
+
+**Future Certifications**
 
 Future Certificaions will be definitely from cloud and its logic… ☁️ Below are some of certs on my radar:
 

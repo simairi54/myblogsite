@@ -50,10 +50,10 @@ params:
   # parameter used to specify if you want to calculate the css integrity
   cssIntegrity: false  
   # parameter used to specify if you want to calculate the js integrity
-  jsIntegrity: false
+  jsIntegrity: false 
   # option to specify the main colour of the theme
   mainColour: "#F39200"
-
+  
   # summary options
   summary:
     # option to specify the default image in the summary list
@@ -129,14 +129,14 @@ params:
       title: My LinkedIn
     # option to specify your facebook account in the footer; 
     # **uncomment** the lines below to show in footer
-    # facebook: 
+    #facebook: 
     #   link: your.username
     #   title: Facebook
     # option to specify your github account in the footer; 
     # **uncomment** the below lines to show in footer
-    # github: 
-    #   link: username
-    #title: Github
+    github: 
+     link: simairi54
+     title: Github
     # option to specify your gitlab account in the footer; 
     # **uncomment** the below lines to show in footer
     # gitlab: 
@@ -144,9 +144,9 @@ params:
     #   title: Gitlab
     # option to specify your twitter username in the footer;
     # **uncomment** the below lines to show in footer
-    # twitter: 
-    #    link: username
-    #    title: Twitter
+    #twitter: 
+    # link: username
+    # title: Twitter
     # option to specify your instagram username in the footer; 
     # **uncomment** the below lines to show in footer
     # instagram: 

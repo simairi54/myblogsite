@@ -1,6 +1,6 @@
 ---
-title: "Homepage"
+title: "Comments"
 
 ---
-[Home](blog.tekspace.cloud)
 
+{{ template "_internal/disqus.html" . }}
