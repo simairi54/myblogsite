@@ -11,14 +11,14 @@ showInMenu: true
 
 Tracking my credentials and creating goals are both covered in this section. 
 
- **Current Certificaions**
+ **In-Progress Certifications**
              
 *AWS Certified DevOps Professional*
 
 *Cisco CCIE EI*
 
 
-**Certifications Completed**
+**Completed Certifications**
 
 
 
@@ -32,12 +32,15 @@ Tracking my credentials and creating goals are both covered in this section.
 Future Certificaions will be definitely from cloud and its logic… ☁️ Below are some of certs on my radar:
 
 
-    AWS Web Services DevOps Engineer
+    
 	AWS Web Services SysOps Administrator
     AWS Certified Solutions Architect – Associate
     AWS Certified Advanced Networking - Specialty
-    CKA: Certified Kubernetes Administrator
-    If you have suggestions please drop me a message!
+    CKA Certified Kubernetes Administrator
+	LPI The Linux Professional Institute Certifications
+	
+	
+If you have suggestions please drop me a message!
 
 *Thanks for your time I hope that you will enjoy my blog!😊*
 
