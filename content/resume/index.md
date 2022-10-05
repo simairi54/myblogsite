@@ -10,8 +10,10 @@ showInMenu: true
 
 
 
+Leo Simairi [Cover Letter](https://drive.google.com/file/d/1fagNr7MCka7eeE24Yl6akboYm3f4d_HH/view?usp=sharing)
 
-Leo Simairi [Resume](https://drive.google.com/file/d/1qcACiuVgAcwl-9TdUuzyAglUOVlh0NaE/view?usp=sharing) 
+Leo Simairi [Resume](https://drive.google.com/file/d/1UkRjcQltN5USGjyK73HOiJp5J8ster8_/view?usp=sharing)
+ 
 
 
 
