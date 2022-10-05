@@ -15,7 +15,9 @@ Tracking my credentials and creating goals are both covered in this section.
              
 *AWS Certified DevOps Professional*
 
-*Cisco CCIE EI*
+*AWS Certified Solutions Architect – Associate*
+
+*LPI Linux Essentials*
 
 
 **Completed Certifications**
@@ -33,11 +35,10 @@ Future Certificaions will be definitely from cloud and its logic… ☁️ Below
 
 
     
-	AWS Web Services SysOps Administrator
-    AWS Certified Solutions Architect – Associate
+	AWS Web Services SysOps Administrator    
     AWS Certified Advanced Networking - Specialty
     CKA Certified Kubernetes Administrator
-	LPI The Linux Professional Institute Certifications
+	
 	
 	
 If you have suggestions please drop me a message!

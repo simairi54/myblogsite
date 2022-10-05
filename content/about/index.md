@@ -7,8 +7,11 @@ weight: 1
 # no need for the "summary" parameter as it is not displayed in any previews
 ---
 
-A motivated IT engineer with 8+ years of experience possesses the perseverance and
-desire needed to solve challenging problems. Being committed to remaining up to date
-with the most recent advances, having a strong working understanding of technologies,
-and having effective organizing abilities.
-inspiring, directing, and offering current consulting services to both customers and coworkers.
+A qualified IT/Cloud Engineer with 8+ years of experience providing IT support to leading organisations in Zimbabwe with
+networks of up to 3000 employees and 2,5 million active subscribers, maintaining IT system integrity for successful and
+ongoing business operations, as well as designing solutions that account for growth and new technologies of tomorrow.
+His heightened analytical and problem-solving ability, meticulous attention to detail and IT expertise combined with an
+approachable demeanour and interrelationship skills, has enabled him to provide helpful, innovative and practical IT
+solutions for colleagues at all levels, contributing to their ability to perform effectively and with confidence. He is
+well-positioned to add value to any organisation seeking an experienced IT/Cloud Engineer to collaborate with key
+stakeholders in order to achieve IT objectives.
