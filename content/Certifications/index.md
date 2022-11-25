@@ -15,14 +15,20 @@ Tracking my credentials and creating goals are both covered in this section.
              
 *AWS Certified DevOps Professional*
 
-*AWS Certified Solutions Architect – Associate*
+*AWS Certified Developer – Associate*
 
-*LPI Linux Essentials*
+*Certified Kubernetes Administrator*
+
+*HashiCorp Certified: Terraform Associate (002)*
+
 
 
 **Completed Certifications**
 
 
+*AWS Certified Solutions Architect – Associate*
+
+*LPI Linux Essentials*
 
 *Cisco Implementing Cisco Enterprise Advanced Routing and Services (ENARSI)* 
 
@@ -31,13 +37,15 @@ Tracking my credentials and creating goals are both covered in this section.
 
 **Future Certifications**
 
-Future Certificaions will be definitely from cloud and its logic… ☁️ Below are some of certs on my radar:
+Future Certifications will be definitely from cloud/DevOps and its logic… ☁️ Below are some of certs on my radar:
 
 
     
-	AWS Web Services SysOps Administrator    
-    AWS Certified Advanced Networking - Specialty
+	
     CKA Certified Kubernetes Administrator
+    HashiCorp Certified: Terraform Associate (002)
+    AWS Web Services SysOps Administrator    
+    AWS Certified Advanced Networking - Specialty
 	
 	
 	
@@ -47,7 +55,7 @@ If you have suggestions please drop me a message!
 
 *Leo*
 
-*Here is my Credly/[Acclaim](https://www.credly.com/earner/earned) dashboard.*
+*Here is my Credly/[Acclaim](https://www.credly.com/users/leo-simairi.eb11b91d/badges) dashboard.*
 
 
  
